@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ミントブルー・ガール",
+  "base_artist": "Endorfin.",
+  "createdAt": "2026-02-28T13:04:14.355710Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミントブルー・ガール(2022 Edition)",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/01_ミントブルー・ガール(2022_Edition)_Endorfin..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミントブルー・ガール",
+      "artist": "Endorfin.",
+      "has_synced": true,
+      "path": "select/02_ミントブルー・ガール_Endorfin..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミントブルー・ガール(2022 Edition)",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/pl_01_ミントブルー・ガール(2022_Edition)_Endorfin..txt"
+    }
+  ]
+}
